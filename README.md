@@ -261,8 +261,8 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	width="30"
 	height="30"
 />
-
 <br />
+
 ## 🚀 Focus Areas
 
 * API design & backend architecture
