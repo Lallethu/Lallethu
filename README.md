@@ -23,7 +23,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 ### 💻 Languages
 
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg"
 	alt="PHP"
 	title="PHP"
@@ -31,7 +30,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg"
 	alt="JavaScript"
 	title="JavaScript"
@@ -39,7 +37,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg"
 	alt="TypeScript"
 	title="TypeScript"
@@ -47,7 +44,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg"
 	alt="Python"
 	title="Python"
@@ -55,7 +51,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg"
 	alt="Java"
 	title="Java"
@@ -63,7 +58,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg"
 	alt="Go"
 	title="Go"
@@ -71,7 +65,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg"
 	alt="Lua"
 	title="Lua"
@@ -82,7 +75,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 ### 🎨 Frontend
 
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg"
 	alt="HTML5"
 	title="HTML5"
@@ -90,7 +82,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg"
 	alt="CSS3"
 	title="CSS3"
@@ -98,7 +89,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg"
 	alt="React"
 	title="React"
@@ -106,7 +96,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/angularjs-colored.svg"
 	alt="Angular"
 	title="Angular"
@@ -114,7 +103,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg"
 	alt="Sass"
 	title="Sass"
@@ -125,7 +113,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 ### ⚙️ Backend
 
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"
 	alt="Node.js"
 	title="Node.js"
@@ -133,7 +120,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg"
 	alt="Express"
 	title="Express"
@@ -141,7 +127,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg"
 	alt="Laravel"
 	title="Laravel"
@@ -149,7 +134,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://symfony.com/logos/symfony_black_03.svg"
 	alt="Symfony"
 	title="Symfony"
@@ -157,7 +141,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/spring-boot-colored.svg"
 	alt="Spring Boot"
 	title="Spring Boot"
@@ -165,7 +148,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg"
 	alt="Flask"
 	title="Flask"
@@ -176,7 +158,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 ### 🗄 Databases
 
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg"
 	alt="MongoDB"
 	title="MongoDB"
@@ -184,7 +165,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg"
 	alt="MySQL"
 	title="MySQL"
@@ -192,7 +172,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg"
 	alt="PostgreSQL"
 	title="PostgreSQL"
@@ -203,7 +182,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 ### 🧰 Tools & DevOps
 
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg"
 	alt="Git"
 	title="Git"
@@ -211,7 +189,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg"
 	alt="Docker"
 	title="Docker"
@@ -219,7 +196,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored-dark.svg"
 	alt="AWS"
 	title="AWS"
@@ -227,7 +203,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg"
 	alt="VS Code"
 	title="VS Code"
@@ -235,7 +210,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
 	alt="Postman"
 	title="Postman"
@@ -246,7 +220,6 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 ### 🎨 Design & CMS
 
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
 	alt="Figma"
 	title="Figma"
@@ -254,13 +227,13 @@ I build **clean, robust and streamlined web applications and scripts**, with a s
 	height="30"
 />
 <img
-	align="left"
 	src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg"
 	alt="WordPress"
 	title="WordPress"
 	width="30"
 	height="30"
 />
+
 <br />
 
 ## 🚀 Focus Areas
